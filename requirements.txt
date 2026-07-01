@@ -1,0 +1,8 @@
+streamlit>=1.34
+huggingface_hub>=0.24
+transformers>=4.44
+torch
+peft>=0.11
+accelerate
+sentencepiece
+tiktoken

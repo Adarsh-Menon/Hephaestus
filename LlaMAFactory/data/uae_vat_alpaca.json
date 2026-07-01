@@ -1,0 +1,227 @@
+[
+  {
+    "instruction": "What is the standard VAT rate in the UAE?",
+    "input": "",
+    "output": "The standard VAT rate in the UAE is 5%, applied to most goods and services. VAT was introduced on 1 January 2018 under Federal Decree-Law No. 8 of 2017 (as amended by Federal Decree-Law No. 16 of 2025, effective 1 January 2026). Some supplies are zero-rated (0%) and others are exempt."
+  },
+  {
+    "instruction": "What are the three VAT categories used in the UAE?",
+    "input": "",
+    "output": "UAE VAT has three categories: (1) standard-rated, charged at 5%; (2) zero-rated, charged at 0% but still taxable (input tax is recoverable); and (3) exempt, where no VAT is charged and related input tax cannot be recovered."
+  },
+  {
+    "instruction": "When does a UAE resident business have to register for VAT?",
+    "input": "",
+    "output": "A UAE-resident business must register for VAT once its taxable supplies and imports exceed AED 375,000 over the previous rolling 12 months, or when it expects to exceed AED 375,000 within the next 30 days. The application must be submitted to the FTA within 30 days of crossing the threshold."
+  },
+  {
+    "instruction": "What is the voluntary VAT registration threshold in the UAE?",
+    "input": "",
+    "output": "The voluntary registration threshold is AED 187,500. A business whose taxable supplies and imports (or taxable expenses) exceed AED 187,500 but are below the AED 375,000 mandatory threshold may choose to register voluntarily, which lets it recover input VAT."
+  },
+  {
+    "instruction": "What is the penalty for failing to register for VAT on time in the UAE?",
+    "input": "",
+    "output": "Failing to apply for VAT registration within 30 days of exceeding the AED 375,000 threshold attracts a fixed administrative penalty of AED 10,000. Note that the UAE penalty framework was revised by Cabinet Decision No. 129 of 2025, effective 14 April 2026; always confirm current amounts at tax.gov.ae."
+  },
+  {
+    "instruction": "Explain the difference between zero-rated and exempt supplies under UAE VAT.",
+    "input": "",
+    "output": "Zero-rated supplies are taxable at 0%: the business charges no output VAT but can still recover input VAT on related costs, and these supplies count toward the registration threshold. Exempt supplies are outside the VAT system: no VAT is charged, input VAT on related costs cannot be recovered, and they do not count toward the registration threshold."
+  },
+  {
+    "instruction": "Give examples of zero-rated supplies in the UAE.",
+    "input": "",
+    "output": "Zero-rated supplies in the UAE include: exports of goods and services outside the GCC implementing states; international transport of passengers and goods; the supply of certain investment-grade precious metals; the first supply of newly constructed residential property (within three years of completion); and specified healthcare and education services. Conditions apply to each category."
+  },
+  {
+    "instruction": "Give examples of VAT-exempt supplies in the UAE.",
+    "input": "",
+    "output": "Exempt supplies in the UAE include: certain financial services (such as margin-based products and life insurance); the subsequent supply of residential property (after the first supply); bare land; and local passenger transport. No VAT is charged on these and input VAT on related costs is generally not recoverable."
+  },
+  {
+    "instruction": "Do zero-rated supplies count toward the VAT registration threshold?",
+    "input": "",
+    "output": "Yes. Zero-rated supplies are taxable supplies (at 0%), so they count toward the AED 375,000 mandatory and AED 187,500 voluntary registration thresholds. Exempt supplies do not count toward the threshold."
+  },
+  {
+    "instruction": "Does a non-resident business need to register for VAT in the UAE?",
+    "input": "",
+    "output": "Yes. A non-resident business making taxable supplies in the UAE must register for VAT from its first taxable supply, regardless of value — the AED 375,000 threshold does not apply to non-residents. The exception is where another UAE party is responsible for accounting for the VAT (e.g. under the reverse-charge mechanism)."
+  },
+  {
+    "instruction": "How does a business register for VAT in the UAE?",
+    "input": "",
+    "output": "VAT registration is completed online through the FTA's EmaraTax portal, at no government fee. The business creates an account (UAE Pass authentication is recommended), submits its trade licence, Emirates ID/passport of authorised signatories, and financial details, and on approval receives a Tax Registration Number (TRN). This is general guidance; consult a registered UAE tax agent for your specific case."
+  },
+  {
+    "instruction": "What is a TRN?",
+    "input": "",
+    "output": "A TRN (Tax Registration Number) is the unique identifier the Federal Tax Authority issues to a business upon VAT registration. It must appear on tax invoices and is used for all VAT filings and correspondence with the FTA."
+  },
+  {
+    "instruction": "How often must a UAE business file VAT returns?",
+    "input": "",
+    "output": "The FTA assigns the tax period at registration. Most businesses file quarterly; businesses with annual turnover above AED 150 million are typically assigned monthly periods. The FTA may assign a different period for specific business types."
+  },
+  {
+    "instruction": "When is a UAE VAT return due?",
+    "input": "",
+    "output": "A VAT return (Form VAT 201) must be filed, and any VAT due paid, within 28 days after the end of the tax period, electronically through the EmaraTax portal. A return must be filed even if no taxable supplies or purchases were made in the period."
+  },
+  {
+    "instruction": "How is the net VAT payable to the FTA calculated?",
+    "input": "",
+    "output": "Net VAT = output tax (VAT charged on sales) minus recoverable input tax (VAT paid on eligible business purchases). If output tax exceeds input tax, the business pays the difference to the FTA. If input tax exceeds output tax, the business may carry the excess forward or claim a refund."
+  },
+  {
+    "instruction": "Can input VAT be recovered on costs related to exempt supplies?",
+    "input": "",
+    "output": "No. Input VAT on costs directly related to exempt supplies cannot be recovered. Input VAT is recoverable on costs related to standard-rated and zero-rated supplies. Businesses making both taxable and exempt supplies must apportion their input tax."
+  },
+  {
+    "instruction": "How are UAE Designated Zones treated for VAT?",
+    "input": "",
+    "output": "A Designated Zone (a free zone specified by Cabinet Decision and under customs control) is treated as outside the UAE for VAT purposes for qualifying supplies of goods, provided the goods remain under customs supervision and do not enter the mainland. Importantly, supplies of services within a Designated Zone are taxable at 5% with no exception."
+  },
+  {
+    "instruction": "Are services supplied within a UAE free zone subject to VAT?",
+    "input": "",
+    "output": "Yes. Services supplied within a free zone, including a Designated Zone, are generally taxable at the standard 5% rate. The special out-of-scope treatment for Designated Zones applies only to qualifying supplies of goods under customs control, not to services."
+  },
+  {
+    "instruction": "When must a full tax invoice be issued versus a simplified one?",
+    "input": "",
+    "output": "A full tax invoice is required for B2B supplies and for any supply exceeding AED 10,000. A simplified tax invoice may be used for B2C supplies or for supplies of AED 10,000 or less. Both must show the supplier's TRN; a full invoice additionally requires the recipient's details and a line-by-line VAT breakdown."
+  },
+  {
+    "instruction": "How long must VAT records be kept in the UAE?",
+    "input": "",
+    "output": "VAT-registered businesses must keep accounting records, issued and received tax invoices, import/export documentation, and credit notes for a minimum of five years. The FTA may request records in Arabic, and failure to provide them carries a separate administrative penalty."
+  },
+  {
+    "instruction": "What is the reverse-charge mechanism in UAE VAT?",
+    "input": "",
+    "output": "Under the reverse-charge mechanism, the recipient of a supply (rather than the supplier) accounts for the VAT. It applies mainly to imports of goods and services and to certain supplies from non-resident suppliers. The registered recipient reports both the output tax and the corresponding recoverable input tax on its VAT return, making it cash-neutral where the input tax is fully recoverable."
+  },
+  {
+    "instruction": "Is VAT grouping allowed in the UAE?",
+    "input": "",
+    "output": "Yes. Two or more related persons that meet the FTA's conditions (such as common control and UAE establishment) may register as a single VAT group with one TRN. Supplies between members of the group are generally disregarded for VAT. Note that VAT grouping rules differ from UAE Corporate Tax grouping rules."
+  },
+  {
+    "instruction": "How is the first supply of residential property treated for VAT, versus later supplies?",
+    "input": "",
+    "output": "The first supply of a newly constructed residential building (made within three years of completion) is zero-rated, so the developer can recover related input VAT. Any subsequent supply (sale or lease) of residential property is exempt, with no VAT charged and input tax not recoverable."
+  },
+  {
+    "instruction": "Is commercial property rent subject to VAT in the UAE?",
+    "input": "",
+    "output": "Yes. The lease or sale of commercial (non-residential) real estate is standard-rated at 5%. This contrasts with residential property, where the first supply is zero-rated and subsequent supplies are exempt."
+  },
+  {
+    "instruction": "Are exports from the UAE subject to VAT?",
+    "input": "",
+    "output": "Exports of goods and services to destinations outside the GCC implementing states are zero-rated (0%), provided the supporting evidence and conditions are met. The exporter charges no VAT but can still recover input VAT on related costs."
+  },
+  {
+    "instruction": "What happens if my input VAT is greater than my output VAT in a period?",
+    "input": "",
+    "output": "If recoverable input tax exceeds output tax for a tax period, the business is in a net refund position. It can either request a refund from the FTA through EmaraTax or carry the excess credit forward to offset future output tax. Note that, effective 1 January 2026, a five-year time limit applies to claiming or offsetting excess input VAT."
+  },
+  {
+    "instruction": "When does mandatory e-invoicing start in the UAE?",
+    "input": "",
+    "output": "UAE e-invoicing begins with a voluntary adoption phase in July 2026, followed by mandatory implementation phased in from 2027 according to business size. It is grounded in amendments to the VAT Law that legally recognise structured e-invoices. Businesses should begin evaluating accredited service providers ahead of their mandatory phase."
+  },
+  {
+    "instruction": "What format will UAE e-invoices use?",
+    "input": "",
+    "output": "Under the UAE e-invoicing regime, invoices must be issued as structured electronic documents (XML/JSON), not PDFs or paper. They are exchanged through Accredited Service Providers (ASPs) using the Peppol-based '5-corner' model, validated by the ASP, and transmitted to the buyer and the FTA in near real time."
+  },
+  {
+    "instruction": "Are there penalties for not implementing UAE e-invoicing?",
+    "input": "",
+    "output": "Yes. Penalties for non-compliance with the e-invoicing requirements are separate from standard VAT penalties and can reach up to AED 60,000 annually for complete failure to implement the system. Confirm current figures and your mandatory phase date at tax.gov.ae."
+  },
+  {
+    "instruction": "Which Cabinet Decision governs UAE VAT penalties from April 2026?",
+    "input": "",
+    "output": "From 14 April 2026, VAT administrative penalties are governed by Cabinet Decision No. 129 of 2025, which replaced the earlier Cabinet Decision No. 49 of 2021. Because penalty schedules change, verify the current amounts at the FTA portal (tax.gov.ae) before relying on them."
+  },
+  {
+    "instruction": "Does a business that only makes exempt supplies need to register for VAT?",
+    "input": "",
+    "output": "No. A business that makes only exempt supplies is not required to register for VAT, because exempt supplies do not count toward the registration threshold. Such a business also cannot recover input VAT on its costs."
+  },
+  {
+    "instruction": "What are the benefits of voluntary VAT registration?",
+    "input": "",
+    "output": "Registering voluntarily (above AED 187,500) lets a business recover input VAT on setup and operating costs that would otherwise be a sunk expense, can enhance credibility with B2B customers, and prepares the business for compliance before it crosses the mandatory threshold. The trade-off is the administrative burden of charging VAT and filing returns."
+  },
+  {
+    "instruction": "Calculate the VAT and the total amount payable.",
+    "input": "Invoice value: AED 2,000, standard-rated.",
+    "output": "VAT = 5% x AED 2,000 = AED 100. Total payable = AED 2,000 + AED 100 = AED 2,100."
+  },
+  {
+    "instruction": "A price is shown VAT-inclusive. Work out the net amount and the VAT.",
+    "input": "VAT-inclusive price: AED 1,050, standard-rated.",
+    "output": "For a 5% VAT-inclusive price, net = price / 1.05 and VAT = price - net. Net = 1,050 / 1.05 = AED 1,000. VAT = 1,050 - 1,000 = AED 50."
+  },
+  {
+    "instruction": "Determine whether this business must register for VAT.",
+    "input": "Taxable supplies over the last 12 months: AED 410,000 (all standard-rated).",
+    "output": "Yes. Taxable supplies of AED 410,000 exceed the AED 375,000 mandatory threshold, so the business must register for VAT and submit its application to the FTA within 30 days of crossing the threshold."
+  },
+  {
+    "instruction": "Determine whether this business must register for VAT.",
+    "input": "Standard-rated supplies: AED 200,000; exempt supplies: AED 300,000 over the last 12 months.",
+    "output": "No mandatory registration is required on these figures. Only taxable supplies count toward the threshold; exempt supplies are excluded. Taxable supplies are AED 200,000, which is below the AED 375,000 mandatory threshold but above the AED 187,500 voluntary threshold, so the business may register voluntarily."
+  },
+  {
+    "instruction": "Compute the net VAT payable to the FTA for the period.",
+    "input": "Output VAT collected on sales: AED 18,000. Recoverable input VAT on purchases: AED 11,500.",
+    "output": "Net VAT payable = output VAT - recoverable input VAT = AED 18,000 - AED 11,500 = AED 6,500 payable to the FTA."
+  },
+  {
+    "instruction": "What is the VAT treatment of basic local public passenger transport?",
+    "input": "",
+    "output": "Local passenger transport (such as buses, metro, and taxis within the UAE) is exempt from VAT. No VAT is charged on the fare, and input VAT on related costs is generally not recoverable."
+  },
+  {
+    "instruction": "Are healthcare and education always zero-rated in the UAE?",
+    "input": "",
+    "output": "No. Only specified healthcare and education services (and certain related goods) are zero-rated under the conditions set out in the VAT legislation. Other related supplies may be standard-rated. The classification depends on the specific service and the supplier, so the relevant FTA guide should be checked."
+  },
+  {
+    "instruction": "Should I register my new Dubai consultancy for VAT now?",
+    "input": "It is a new mainland consultancy with projected first-year revenue of AED 250,000.",
+    "output": "On these figures registration is not yet mandatory: AED 250,000 is below the AED 375,000 mandatory threshold. However, it is above the AED 187,500 voluntary threshold, so you could register voluntarily to recover input VAT on setup costs and to invoice B2B clients with a TRN. You must register within 30 days if you expect to exceed AED 375,000 within the next 30 days. This is general information, not tax advice; please confirm with a registered UAE tax agent or the FTA (tax.gov.ae)."
+  },
+  {
+    "instruction": "What is output tax and what is input tax?",
+    "input": "",
+    "output": "Output tax is the VAT a registered business charges and collects on its taxable sales. Input tax is the VAT the business pays on its eligible business purchases. The business remits the difference (output tax minus recoverable input tax) to the FTA, or claims a refund if input tax is greater."
+  },
+  {
+    "instruction": "Is there a fee to register for VAT with the FTA?",
+    "input": "",
+    "output": "No. There is no government fee to register for VAT on the EmaraTax portal. Costs typically arise only from professional services or software you may choose to use."
+  },
+  {
+    "instruction": "What records must appear on a full UAE tax invoice?",
+    "input": "",
+    "output": "A full tax invoice must show: the words 'Tax Invoice'; the supplier's name, address and TRN; the recipient's name and address (and TRN if registered); a sequential invoice number and date; a description of the goods or services; the unit price, quantity, rate of VAT and VAT amount per line; the total amount excluding VAT, the total VAT, and the gross total. Amounts are stated in AED."
+  },
+  {
+    "instruction": "If I import goods into the UAE, who accounts for the VAT?",
+    "input": "",
+    "output": "For imports of goods by a VAT-registered business, the importer accounts for the VAT under the reverse-charge mechanism on its VAT return, rather than paying it at the point of import in most cases. The business reports the import VAT as output tax and recovers it as input tax in the same return where the goods are used for taxable supplies, making it cash-neutral when fully recoverable."
+  },
+  {
+    "instruction": "What is the legal basis for VAT in the UAE?",
+    "input": "",
+    "output": "UAE VAT was introduced by Federal Decree-Law No. 8 of 2017 on Value Added Tax, effective 1 January 2018, with its Executive Regulations and subsequent Cabinet Decisions. The law was amended by Federal Decree-Law No. 16 of 2025, effective 1 January 2026. The Federal Tax Authority (FTA) administers VAT through the EmaraTax portal."
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "uae_vat": {
+    "file_name": "uae_vat_alpaca.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
